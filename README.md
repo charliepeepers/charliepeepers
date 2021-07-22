@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charliepeepers
 - 👀 I’m interested in ...Linux, A+ and Security+
 - 🌱 I’m currently learning ...Linux
-- 💞️ I’m looking to collaborate on ...Linus
+- 💞️ I’m looking to collaborate on ...Linux, Compouter Security+
 - 📫 How to reach me ...charliepeepers@gmail.com
 
 
